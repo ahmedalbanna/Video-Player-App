@@ -1,0 +1,6 @@
+{
+  "name": "مشغل الفيديو",
+  "description": "تطبيق متكامل لمشغل الفيديو المحلي مع ميزات العرض السلس والتحكم بوضعية التدوير التلقائي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
